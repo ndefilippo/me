@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ndefilippo
 - 👀 I’m a PGY-1 pharmacy resident in New Haven, CT
 - 🌱 I’m currently learning how to use GitHub
-- 📫 How to reach me:
-    - Email: nicholas.defilippo@ynhh.org
-    - Twitter: https://twitter.com/ConnPharmIntern
+- 📫 Follow me on Twitter: ![Twitter][1.2]
+
+<!-- Icons -->
+
+[1.2]: https://img.shields.io/twitter/follow/ConnPharmIntern?style=social
 
 <!---
 ndefilippo/ndefilippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
